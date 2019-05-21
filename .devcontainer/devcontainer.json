@@ -1,0 +1,6 @@
+// See https://aka.ms/vscode-remote/devcontainer.json for format details.
+{
+	"name": "Ubuntu 18.04 & Git",
+	"dockerFile": "Dockerfile",
+	"appPort": []
+}
