@@ -1,0 +1,12 @@
+// See https://aka.ms/vscode-remote/devcontainer.json for format details.
+{
+    "name": "Docker in Docker Compose",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "docker-in-docker",
+    "workspaceFolder": "/workspace",
+    "shutdownAction": "stopCompose",
+    "extensions": [
+        "peterjausovec.vscode-docker",
+        "ms-vscode.csharp"
+    ]
+}
