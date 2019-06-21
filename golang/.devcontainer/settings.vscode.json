@@ -1,0 +1,6 @@
+{
+    "remote.extensionKind": {
+        "peterjausovec.vscode-docker": "workspace",
+        "ms-vscode.go": "workspace"
+    }
+}
